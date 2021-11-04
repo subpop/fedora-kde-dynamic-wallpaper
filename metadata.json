@@ -1,0 +1,22 @@
+[
+	{
+		"CrossFade": false,
+		"Time": "08:00",
+		"FileName": "f35-01-day.png"
+	},
+	{
+		"CrossFade": true,
+		"Time": "18:00",
+		"FileName": "f35-01-day.png"
+	},
+	{
+		"CrossFade": false,
+		"Time": "20:00",
+		"FileName": "f35-02-night.png"
+	},
+	{
+		"CrossFade": true,
+		"Time": "06:00",
+		"FileName": "f35-02-night.png"
+	}
+]
