@@ -4,7 +4,7 @@ This is the Fedora 35 wallpaper, converted to a
 [plasma5-wallpapers-dynamic](https://github.com/zzag/plasma5-wallpapers-dynamic)
 compatible file (HEIC).
 
-![preview](preview.gif)
+![preview](preview.png)
 
 ## Usage
 
