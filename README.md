@@ -1,6 +1,6 @@
 # fedora-kde-dynamic-wallpaper
 
-This is the Fedora 35 wallpaper, converted to a
+This is the Fedora 36 wallpaper, converted to a
 [plasma5-wallpapers-dynamic](https://github.com/zzag/plasma5-wallpapers-dynamic)
 compatible file (HEIC).
 
@@ -22,7 +22,7 @@ project). The included HEIC file was run with the
 following command:
 
 ```
-kdynamicwallpaperbuilder --output f35-dynamic.heic --quality 100 metadata.json
+kdynamicwallpaperbuilder --output f36-dynamic.heic --quality 100 metadata.json
 ```
 
 ## Credit
