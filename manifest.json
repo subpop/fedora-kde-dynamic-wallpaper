@@ -1,0 +1,13 @@
+{
+	"Type": "day-night",
+	"Meta": [
+		{
+			"TimeOfDay": "day",
+			"FileName": "f35-01-day.png"
+		},
+		{
+			"TimeOfDay": "night",
+			"FileName": "f35-02-night.png"
+		}
+	]
+}

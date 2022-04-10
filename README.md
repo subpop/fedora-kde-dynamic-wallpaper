@@ -21,7 +21,7 @@ and run `kdynamicwallpaperbuilder` (available in the
 project). The included AVIF file was run with the following command:
 
 ```
-kdynamicwallpaperbuilder --output f35-dynamic.heic metadata.json
+kdynamicwallpaperbuilder --output f35-dynamic.heic manifest.json
 ```
 
 ## Credit
