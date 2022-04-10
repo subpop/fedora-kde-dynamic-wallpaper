@@ -27,7 +27,7 @@ Alternatively, you could generate the image file yourself.
 The included AVIF file was run with the following command:
 
 ```
-kdynamicwallpaperbuilder --output f36-dynamic.avif metadata.json
+kdynamicwallpaperbuilder --output f36-dynamic.avif manifest.json
 ```
 
 ## Credit
