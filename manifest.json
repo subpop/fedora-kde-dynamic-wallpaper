@@ -3,11 +3,11 @@
     "Meta": [
         {
             "TimeOfDay": "day",
-            "FileName": "f38-01-day-beta.png"
+            "FileName": "f39-01-day.png"
         },
         {
             "TimeOfDay": "night",
-            "FileName": "f38-01-night-beta.png"
+            "FileName": "f39-01-night.png"
         }
     ]
 }
