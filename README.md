@@ -1,6 +1,6 @@
 # fedora-kde-dynamic-wallpaper
 
-This is the Fedora 40 wallpaper, converted to a
+This is the Fedora 41 wallpaper, converted to a
 [plasma5-wallpapers-dynamic](https://github.com/zzag/plasma5-wallpapers-dynamic)
 compatible file (AVIF).
 
@@ -27,7 +27,7 @@ Alternatively, you could generate the image file yourself.
 The included AVIF file was run with the following command:
 
 ```
-kdynamicwallpaperbuilder --output f40-dynamic.avif manifest.json
+kdynamicwallpaperbuilder --output f41-dynamic.avif manifest.json
 ```
 
 ## Credit
